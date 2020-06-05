@@ -16,5 +16,5 @@ jobs:
         uses: yg/gh-box@master
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: 3753e51aab929a084a77e14c52a2864b
+          GIST_ID: 9a2ab32710297b4c88d88618ccabe218
           CONSIDER_PRIVATE: true
