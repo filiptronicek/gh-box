@@ -83,7 +83,7 @@ async function updateGist(data) {
       gist_id: gistId,
       files: {
         [filename]: {
-          filename: `🐱 GitHub Data`,
+          filename: `GitHub Stats 🔢`,
           content: lines.join("\n")
         }
       }
